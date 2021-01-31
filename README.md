@@ -1,3 +1,3 @@
 # java-api
 
-These are java apis
+Writing java apis without using any framework
